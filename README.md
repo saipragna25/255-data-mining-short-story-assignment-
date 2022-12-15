@@ -1,5 +1,6 @@
 RESEARCH PAPER LINK :
 
+https://drive.google.com/file/d/1UIkBYJD7g3AFnnFYYk7zEwjT6vskc_0U/view?usp=drivesdk
 
 
 
@@ -8,9 +9,11 @@ MEDIUM ARTICLE LINK:
 https://medium.com/@saipragna.kancheti/network-shared-data-resources-mining-based-on-k-means-clustering-algorithm-b67d4561c6e2
 
 
+
 YOUTUBE PRESENTATION LINK:
 
 https://youtu.be/Icquh6XQPeo
+
 
 
 SLIDESHARE PPT LINK:
