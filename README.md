@@ -1,6 +1,6 @@
 RESEARCH PAPER LINK :
 
-https://drive.google.com/file/d/1UIkBYJD7g3AFnnFYYk7zEwjT6vskc_0U/view?usp=drivesdk
+https://drive.google.com/file/d/1UIkBYJD7g3AFnnFYYk7zEwjT6vskc_0U/view?usp=sharing
 
 
 
